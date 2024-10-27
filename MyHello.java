@@ -7,5 +7,6 @@ class MyHello {
             System.out.println("hello");
         }
         System.out.println("bright 4th line");
+        System.out.println("Fifth line by someone");
     }
 }
