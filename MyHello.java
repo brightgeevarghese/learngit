@@ -6,5 +6,6 @@ class MyHello {
         for(int i = 0; i < 2; i++) {
             System.out.println("hello");
         }
+        System.out.println("Fifth line by someone");
     }
 }
